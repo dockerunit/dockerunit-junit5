@@ -31,7 +31,7 @@
   </developers>
 
   <properties>
-    <junit.version>5.4.2</junit.version>
+    <junit.version>5.5.0</junit.version>
     <dockerunit.core.version>2.0.0-SNAPSHOT</dockerunit.core.version>
     <lombok.version>1.16.6</lombok.version>
   </properties>
